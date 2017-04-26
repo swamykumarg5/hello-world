@@ -1,1 +1,2 @@
 this is new file added manually from notepad
+this is the second commit 
