@@ -1,1 +1,2 @@
 this is new file to added manually from notepad
+this is some new file added
