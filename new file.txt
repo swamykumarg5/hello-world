@@ -1,2 +1,3 @@
 this is new file added manually from notepad
 this is the second commit 
+these are the changes done by master
