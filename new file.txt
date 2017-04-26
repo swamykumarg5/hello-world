@@ -1,2 +1,5 @@
+
 this is new file to added manually from notepad
 this is some new file added
+this is the second commit 
+these are the changes done by master
