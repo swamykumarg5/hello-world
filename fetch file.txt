@@ -1,1 +1,3 @@
 this is new file added by master to practice the fetching concept in git hub
+
+this line is added by dev2 branch for practicing
